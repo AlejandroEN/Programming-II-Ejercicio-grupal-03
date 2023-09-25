@@ -1,7 +1,7 @@
 /* Integrantes:
- * - Ismael Escobar Núñez (teoría )
- * - Ulrich Nieto Rosales (teoría )
- * - Ariana Mercado Barbieri (teoría )
+ * - Ismael Escobar Núñez (teoría 2)
+ * - Ulrich Nieto Rosales (teoría 2)
+ * - Ariana Mercado Barbieri (teoría 1)
  */
 
 #include <iostream>
