@@ -3,4 +3,4 @@ project(Ejercicio_03_Grupal)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Ejercicio_03_Grupal main.cpp utilities.cpp)
+add_executable(Ejercicio_03_Grupal main.cpp utilities.cpp functions.cpp)

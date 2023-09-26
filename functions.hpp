@@ -2,4 +2,4 @@
 
 void bombear(unsigned int *tanque);
 
-void repartir(unsigned int *tanque);
+bool repartir(unsigned int *tanque);
